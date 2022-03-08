@@ -32,7 +32,7 @@
 
 <h2></h2>
 
-<h3 align="center">Contact:</h3>
+<h3 align="center">💬 Contact:</h3>
 <div align="center">    
 <!--
   <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -50,22 +50,19 @@
 
 <hr>
 
-<!-- image
+![Snake animation](https://github.com/Paulo-Krg/Paulo-Krg/blob/output/github-contribution-grid-snake.svg)
+
+![MatrixSVG](./matrix.svg)
+
+<!-- IMAGES
 <div align="center">
-  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+    <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+    <img src="./matrix.svg" width="100%">
 </div>
 -->
-
-![Snake animation](https://github.com/Paulo-Krg/Paulo-Krg/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
