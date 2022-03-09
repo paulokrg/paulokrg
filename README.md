@@ -1,5 +1,5 @@
 <h1 align="center">Hi There, I am Paulo Krüger 👋</h1>
-
+    
 <!-- Badges
 <a href="https://gitpod.io/#https://github.com/Paulo-Krg/Paulo-Krg"><img src="https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod" alt="Gitpod Ready-to-Code"/></a>
 <a href="https://vercel.com/new/clone?repository-url=https://github.com/Paulo-Krg/Paulo-Krg"><img src="https://vercel.com/button" alt="Deploy with Vercel"/></a>
@@ -32,7 +32,7 @@
 
 <h2></h2>
 
-<h3 align="center">💬 Contact:</h3>
+<h3 align="center" >💬✉️ Contact:</h3>
 <div align="center">    
 <!--
   <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
