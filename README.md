@@ -1,10 +1,12 @@
-<h1 align="center">Hi There, I am Paulo Krüger 👋</h1>
+<h1 align="center">Hi, I am Paulo Krüger 👋</h1>
     
 <!-- Badges
 <a href="https://gitpod.io/#https://github.com/Paulo-Krg/Paulo-Krg"><img src="https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod" alt="Gitpod Ready-to-Code"/></a>
 <a href="https://vercel.com/new/clone?repository-url=https://github.com/Paulo-Krg/Paulo-Krg"><img src="https://vercel.com/button" alt="Deploy with Vercel"/></a>
 <a href="https://app.netlify.com/start/deploy?repository=https://github.com/Paulo-Krg/Paulo-Krg"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
 -->
+
+<p align="center">I am a computer engineering student. Interested in Full Stack development and always learning new technologies.</p>
 
 <a href="https://github.com/Paulo-Krg">
 <div title="My Statistics" align="center">
