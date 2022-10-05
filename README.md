@@ -38,7 +38,7 @@
 <div align="center">
   <!-- badge with white background -->
 <!--
-  <a href="https://www.linkedin.com/in/paulo-kruger-costa" target="_blank"><img title="Abrir Linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&labelColor=white&logo=linkedin&logoColor=0e76a8" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/paulokrg" target="_blank"><img title="Abrir Linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&labelColor=white&logo=linkedin&logoColor=0e76a8" target="_blank"></a>
   <a href="mailto:paulo.krg.costa@gmail.com" target="_blank"><img title="Enviar Email" src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=white&logo=gmail&logoColor=FF0000" target="_blank"/></a>
   <a href="https://github.com/paulokrg" target="_blank"><img title="Abrir Github" src="https://img.shields.io/badge/GitHub-black?&style=for-the-badge&labelColor=white&logo=GitHub&logoColor=black"></a>
   <a href="https://wa.me/+5551985484654" target="_blank"><img title="Enviar Mensagem" src="https://img.shields.io/badge/-WhatsApp-25d366?style=for-the-badge&labelColor=white&logo=whatsapp&logoColor=25d366"/></a>
@@ -50,9 +50,9 @@
 -->
     
   <!-- badge with white logo -->
-  <a href="https://www.linkedin.com/in/paulo-kruger-costa" target="_blank"><img title="Abrir Linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/paulokrg" target="_blank"><img title="Abrir Linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:paulo.krg.costa@gmail.com" target="_blank"><img title="Enviar Email" src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
-  <a href="https://github.com/Paulo-Krg" target="_blank"><img title="Abrir Github" src="https://img.shields.io/badge/GitHub-black?&style=for-the-badge&logo=GitHub&logoColor=white"></a>
+  <a href="https://github.com/paulokrg" target="_blank"><img title="Abrir Github" src="https://img.shields.io/badge/GitHub-black?&style=for-the-badge&logo=GitHub&logoColor=white"></a>
   <a href="https://wa.me/+5551985484654" target="_blank"><img title="Enviar Mensagem" src="https://img.shields.io/badge/-WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   <a href="https://t.me/+5551985484654" target="_blank"><img title="Enviar Mensagem" src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <!--
@@ -64,9 +64,9 @@
     
   <!-- small flat square -->
 <!--
-  <a href="https://www.linkedin.com/in/paulo-kruger-costa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/paulokrg" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="mailto:paulo.krg.costa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Paulo-Krg" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?&style=flat-square&logo=GitHub&logoColor=white"></a>
+  <a href="https://github.com/paulokrg" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?&style=flat-square&logo=GitHub&logoColor=white"></a>
   <a href="https://wa.me/+5551985484654" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white"/></a>
   <a href="https://t.me/+5551985484654" target="_blank"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&labelColor=0088cc&logo=telegram&logoColor=white"/></a>
   <a href="https://www.youtube.com/" target="_blank"><img title="Abrir Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" target="_blank"></a>
@@ -78,14 +78,13 @@
 
 <!--
 <div align="center">
-  <a href="https://www.linkedin.com/in/paulo-kruger-costa" target="_blank"><img title="Abrir Linkedin" src="./linkedin.svg" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/paulokrg" target="_blank"><img title="Abrir Linkedin" src="./linkedin.svg" target="_blank"></a>
   <a href="mailto:paulo.krg.costa@gmail.com" target="_blank"><img title="Enviar Email" src="./gmail.svg" target="_blank"></a>
 </div>
 -->
 
 <hr>
 
-![Snake animation](https://github.com/Paulo-Krg/Paulo-Krg/blob/output/github-contribution-grid-snake.svg)
 
 ![MatrixSVG](./matrix.svg)
 
