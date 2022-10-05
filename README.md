@@ -1,17 +1,17 @@
 <h1 align="center">Hi, I am Paulo Krüger 👋</h1>
     
 <!-- Badges
-<a href="https://gitpod.io/#https://github.com/Paulo-Krg/Paulo-Krg"><img src="https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod" alt="Gitpod Ready-to-Code"/></a>
-<a href="https://vercel.com/new/clone?repository-url=https://github.com/Paulo-Krg/Paulo-Krg"><img src="https://vercel.com/button" alt="Deploy with Vercel"/></a>
-<a href="https://app.netlify.com/start/deploy?repository=https://github.com/Paulo-Krg/Paulo-Krg"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
+<a href="https://gitpod.io/#https://github.com/paulokrg/paulokrg"><img src="https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod" alt="Gitpod Ready-to-Code"/></a>
+<a href="https://vercel.com/new/clone?repository-url=https://github.com/paulokrg/paulokrg"><img src="https://vercel.com/button" alt="Deploy with Vercel"/></a>
+<a href="https://app.netlify.com/start/deploy?repository=https://github.com/paulokrg/paulokrg"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
 -->
 
 <p align="center">I am a computer engineering student. Interested in Full Stack development and always learning new technologies.</p>
 
-<a href="https://github.com/Paulo-Krg">
+<a href="https://github.com/paulokrg">
 <div title="My Statistics" align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paulo-Krg&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Krg&layout=compact&langs_count=7&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulokrg&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulokrg&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
 </br>
@@ -40,7 +40,7 @@
 <!--
   <a href="https://www.linkedin.com/in/paulo-kruger-costa" target="_blank"><img title="Abrir Linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&labelColor=white&logo=linkedin&logoColor=0e76a8" target="_blank"></a>
   <a href="mailto:paulo.krg.costa@gmail.com" target="_blank"><img title="Enviar Email" src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=white&logo=gmail&logoColor=FF0000" target="_blank"/></a>
-  <a href="https://github.com/Paulo-Krg" target="_blank"><img title="Abrir Github" src="https://img.shields.io/badge/GitHub-black?&style=for-the-badge&labelColor=white&logo=GitHub&logoColor=black"></a>
+  <a href="https://github.com/paulokrg" target="_blank"><img title="Abrir Github" src="https://img.shields.io/badge/GitHub-black?&style=for-the-badge&labelColor=white&logo=GitHub&logoColor=black"></a>
   <a href="https://wa.me/+5551985484654" target="_blank"><img title="Enviar Mensagem" src="https://img.shields.io/badge/-WhatsApp-25d366?style=for-the-badge&labelColor=white&logo=whatsapp&logoColor=25d366"/></a>
   <a href="https://t.me/+5551985484654" target="_blank"><img title="Enviar Mensagem" src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&labelColor=white&logo=telegram&logoColor=white"/></a>
   <a href="https://www.youtube.com/" target="_blank"><img title="Abrir Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&labelColor=white&logo=youtube&logoColor=FF0000" target="_blank"></a>
